@@ -165,8 +165,6 @@ MLOps                 ███████░░░░░░░░
 
 System Design         ████████░░░░░░░
 
-Kubernetes            ██████░░░░░░░░░
-
 Cloud Computing       ███████░░░░░░░░
 ```
 
