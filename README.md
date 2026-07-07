@@ -1,146 +1,249 @@
-<h1 align="center">Hi 👋, I'm Harish Adithyan</h1>
+<div align="center">
 
-<h3 align="center">
-Aspiring Software Engineer • AI Enthusiast • Full Stack Developer
-</h3>
+# 👋 Hey, I'm Harish Adithyan
 
-<p align="center">
+### Software Engineer • AI Enthusiast • Backend Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=00E7FF&center=true&vCenter=true&width=850&lines=Building+Scalable+Software;AI+%7C+FastAPI+%7C+React+Native;Machine+Learning+Engineer;Open+Source+Learner;Always+Learning.+Always+Building."/>
+
+<br>
+
 <a href="https://harishadithyanm.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=googlechrome"/>
+<img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/Harishadithyanm10">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/harish-adithyan-m-88326a2ba">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+</div>
+
+---
+
+# 🖥️ whoami
+
+```bash
+harish@github:~$ whoami
+
+Harish Adithyan
+
+Software Engineer passionate about building
+AI-powered applications, scalable backend systems
+and modern full-stack experiences.
+
+Currently focused on solving real-world problems
+through software engineering and artificial intelligence.
+```
+
+<p align="center">
+<img width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 </p>
 
 ---
 
-<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+# 🚀 Current Mission
 
-## 👨‍💻 About Me
+I'm on a journey to become a world-class Software Engineer by building production-ready applications that combine
 
-- 🎓 B.E. Electronics & Communication Engineering
-- 🏫 PSNA College of Engineering and Technology
-- 💡 Passionate about AI, Backend Development & Cloud Technologies
-- 🌱 Currently learning **Machine Learning, Deep Learning, MLOps & System Design**
-- 🚀 Building scalable Full Stack applications using **FastAPI** and **React Native**
-- 🎯 Interested in Software Engineering, AI Research and Intelligent Systems
+🤖 Artificial Intelligence
+
+⚡ Backend Engineering
+
+📱 Mobile Applications
+
+☁️ Cloud Technologies
+
+instead of simply completing tutorials.
+
+Every project I build teaches me something new about architecture, scalability and writing better software.
 
 ---
 
-## 🛠 Tech Stack
+# ⚡ Tech Arsenal
 
-### Languages
+<p >
 
-<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,c"/>
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,c,sql"/>
+<br>
 
-</p>
+<img src="https://skillicons.dev/icons?i=fastapi,django,react,tailwind"/>
 
-### Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=fastapi,django,nodejs"/>
-
-</p>
-
-### Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css"/>
-
-</p>
-
-### Database
-
-<p>
+<br>
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,redis"/>
 
-</p>
+<br>
 
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman"/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,vscode"/>
 
 </p>
 
-### AI & Data
+---
 
-- Machine Learning
-- Deep Learning
-- NLP
-- Time Series Forecasting
-- Data Analytics
+# 📂 Featured Projects
+
+## 🎙️ HangoVoice
+
+> **AI-Powered Voice Communication Platform**
+
+HangoVoice is an intelligent communication platform that combines modern backend architecture with AI capabilities to create seamless voice interactions.
+
+### Highlights
+
+- ⚡ FastAPI backend
+- 📱 React Native mobile application
+- 🗄 PostgreSQL database
+- 🚀 Redis caching
+- 🔒 Secure Authentication
+- 📈 Production-ready architecture
 
 ---
 
-## 🚀 Featured Projects
+## ⚡ AI-Based Energy Forecasting
 
-### 🎙️ HangoVoice
+> **Machine Learning for Renewable Energy**
 
-AI-powered voice communication platform built using FastAPI, PostgreSQL, Redis and React Native.
+Developed predictive Machine Learning models capable of forecasting solar energy generation using historical weather and irradiance datasets.
 
-### ⚡ AI-Based Energy Forecasting
+### What I built
 
-Machine Learning application for forecasting solar energy generation using historical weather datasets.
-
-### 📝 Thoughify
-
-A modern blogging platform featuring JWT authentication, REST APIs, rich text editing and PostgreSQL.
-
-### 🤖 NovaAI
-
-An AI assistant with markdown rendering, conversational memory and intelligent responses.
+- Data preprocessing
+- Feature engineering
+- Time-series forecasting
+- Interactive visualizations
+- Performance analysis
 
 ---
 
-## 🏆 Achievements
+## 📝 Thoughify
 
-🥇 First Prize — IDEATECH (TEXUS'26), SRM IST Chennai
+> **Modern Blogging Platform**
+
+A full-stack blogging platform allowing users to publish articles, interact with communities and manage personalized profiles.
+
+### Features
+
+- JWT Authentication
+- Rich Text Editor
+- Comments & Likes
+- Search & Categories
+- User Profiles
+- Django REST APIs
+- PostgreSQL
+
+---
+
+## 🤖 NovaAI
+
+> **AI Conversational Assistant**
+
+An AI-powered assistant supporting markdown, contextual conversations and developer-friendly responses.
+
+### Features
+
+- AI Responses
+- Markdown Support
+- Conversation History
+- Code Formatting
+- Responsive UI
+
+---
+
+# 🌱 Currently Learning
+
+```yaml
+Machine Learning      ████████████░░░░
+
+Deep Learning         █████████░░░░░░
+
+MLOps                 ███████░░░░░░░░
+
+System Design         ████████░░░░░░░
+
+Kubernetes            ██████░░░░░░░░░
+
+Cloud Computing       ███████░░░░░░░░
+```
+
+---
+
+# ☕ developer.log
+
+```python
+while alive:
+
+    learn()
+
+    build()
+
+    debug()
+
+    deploy()
+
+    repeat()
+```
+
+<p align="center">
+
+<img width="320" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
+
+</p>
+
+---
+
+# 🏆 Achievements
+
+🥇 First Prize — IDEATECH (TEXUS'26)
 
 🏅 Top 15 Teams — Ideathon AMC
 
-🚀 Passionate about building scalable AI-powered software solutions.
+🚀 Built multiple AI and Full Stack applications focused on scalable software architecture and intelligent systems.
 
 ---
 
-## 🌱 Currently Learning
+# 📊 Current Status
 
-- Machine Learning
-- Deep Learning
-- MLOps
-- System Design
-- Kubernetes
-- Cloud Computing
+```text
+Backend Engineering      ████████████████████ 100%
+
+Artificial Intelligence  ████████████████░░░░ 80%
+
+Full Stack Development   ███████████████░░░░░ 75%
+
+Cloud Computing          ██████████░░░░░░░░░░ 50%
+
+Open Source              ███████░░░░░░░░░░░░░ 35%
+```
 
 ---
 
-## 📫 Connect With Me
+# 💭 Random Dev Quote
 
-🌐 **Portfolio**
+> *"First, solve the problem. Then, write the code."*  
+> — John Johnson
+
+---
+
+# 📬 Connect With Me
+
+🌐 Portfolio
 
 https://harishadithyanm.netlify.app
 
-💼 **LinkedIn**
+💼 LinkedIn
 
 https://www.linkedin.com/in/harish-adithyan-m-88326a2ba
 
-💻 **GitHub**
+💻 GitHub
 
 https://github.com/Harishadithyanm10
 
-📧 **Email**
+📧 Email
 
 harishadithyan17@gmail.com
 
@@ -148,8 +251,10 @@ harishadithyan17@gmail.com
 
 <div align="center">
 
-### 💭 Quote
+<img src="https://komarev.com/ghpvc/?username=Harishadithyanm10&style=for-the-badge&color=blue"/>
 
-*"Code with purpose. Learn relentlessly. Build for impact."*
+### ⭐ Thanks for stopping by!
+
+*"Code with curiosity. Build with purpose. Keep shipping."*
 
 </div>
